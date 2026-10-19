@@ -1,0 +1,4 @@
+ẢNH CỦA CÔ ẤY
+
+Đặt ảnh muốn dùng vào thư mục images và đặt tên chính xác: her-photo.jpg
+Ảnh này hiện trong bó hoa và mở lớn khi chạm vào khung ảnh. Nếu dùng PNG, sửa cả hai đường dẫn images/her-photo.jpg trong index.html. Chỉ dùng ảnh được phép chia sẻ.
